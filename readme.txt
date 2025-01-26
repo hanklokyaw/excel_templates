@@ -16,3 +16,8 @@ o Use &quot;What-If Analysis&quot; tools like Data Tables for scenario planning.
 10. Date Functions: Work efficiently with dates using:
 o DATE()
 o MONTH(DATEVALUE())
+
+
+Functions and Exercises:
+Pivot Table Exercise 1 - pivot_table_exe1.zip
+
