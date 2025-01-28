@@ -20,4 +20,10 @@ o MONTH(DATEVALUE())
 
 Functions and Exercises:
 Pivot Table Exercise 1 - pivot_table_exe1.zip
+Pivot Table Exercise 2 - pivot_table_exe2.zip
+Pivot Table Exercise 3 - pivot_table_exe3.zip
+Pivot Table Exercise 4 - pivot_table_exe4.zip
+Pivot Table Exercise 5 - pivot_table_exe5.zip
+
+
 
